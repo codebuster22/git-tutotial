@@ -1,3 +1,2 @@
 Hello Git.
-Hello World.
-Hello Universe..
+Hello World
